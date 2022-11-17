@@ -14,6 +14,10 @@ El **boletin4** de _phyton_ esta en este enlace. [bol4]
 
 [bol4]:https://github.com/francisco1112/PrimerasActividadesPython/tree/master/BOLETIN4
 
+![logo phyton][logo1]
+
+[logo1]:https://www.icog.es/cursos/wp-content/uploads/2020/09/phyton.png
+
 **Pasos que debes de seguir para subir _archivos_ a github desde terminal**
 1. git init
 2. git add 
@@ -27,6 +31,10 @@ El **boletin4** de _phyton_ esta en este enlace. [bol4]
 - status
 - log
 - clone
+
+Si teneis dudas, en este [enlace] hay un tutorial que puede que os ayude.
+
+[enlace]:https://www.youtube.com/watch?v=L_lWQZNhN7w
 
 ![logo github][logo]
 
