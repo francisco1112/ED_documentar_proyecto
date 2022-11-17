@@ -1,3 +1,9 @@
+# DOCUMENTANDO MI PROYECTO
+
+![logo proyecto][logo2]
+
+[logo2]:https://www.garridofreshmentoring.com/wp-content/uploads/2016/01/dreamstime_m_54797904-min-1024x640.jpg
+
 ## ACTIVIDADES DE PROGRAMACION
 ### BOLETIN 1
 El **boletin1** de _phyton_ esta en este enlace. [bol1]
@@ -18,6 +24,7 @@ El **boletin4** de _phyton_ esta en este enlace. [bol4]
 
 [logo1]:https://www.icog.es/cursos/wp-content/uploads/2020/09/phyton.png
 
+## COMANDOS GITHUB
 **Pasos que debes de seguir para subir _archivos_ a github desde terminal**
 1. git init
 2. git add 
